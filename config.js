@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'vanir',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
@@ -36,10 +36,10 @@ const CONFIG = {
 	defaultLongitude: '77.382637',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: false,
+	changeThemeByOS: true,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
